@@ -2543,4 +2543,4 @@
 172.30.* +direct
 172.31.* +direct
 
-* +proxy
+; * +proxy
